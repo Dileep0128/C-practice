@@ -1,2 +1,2 @@
 # C-practice
-this repo contains the code that i have learnt
+this repo contains the codes that i have learnt
